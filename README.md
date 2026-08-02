@@ -1,7 +1,6 @@
 # 🚗 Smart Parking DAQ System & IoT Control
 
 > **Course:** Instrumentation and Measurement  
-> **Instructor:** Dr. Ahmad Afshar  
 > **Institution:** Amirkabir University of Technology (Tehran Polytechnic) — Department of Electrical Engineering  
 
 ---
