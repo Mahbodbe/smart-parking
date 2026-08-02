@@ -1,0 +1,23 @@
+# IDE / Editor temporary & workspace files
+*.pdsprj.DESKTOP-*
+*.pdsprj.workspace
+*.workspace
+Project Backups/
+Backup of *
+
+# OS & System files
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+
+# Environment / Credentials
+.env
+*.pem
+
+# Python / Node / Virtualenv
+__pycache__/
+*.pyc
+node_modules/
+venv/
+.venv/
