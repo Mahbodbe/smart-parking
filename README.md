@@ -1,6 +1,7 @@
 # 🚗 Smart Parking DAQ System & IoT Control
 
 > **Course:** Instrumentation and Measurement  
+> **Instructor:** Dr. Ahmad Afshar  
 > **Institution:** Amirkabir University of Technology (Tehran Polytechnic) — Department of Electrical Engineering  
 
 ---
@@ -9,7 +10,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Microcontroller-ESP32-E67E22?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32">
   <img src="https://img.shields.io/badge/Backend-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Firmware-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Firmware-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/Simulation-Proteus-004088?style=for-the-badge" alt="Proteus">
 </p>
 
@@ -21,6 +22,16 @@
     <img src="https://img.shields.io/badge/Language-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C-green.svg?style=flat-square" alt="فارسی">
   </a>
 </p>
+
+---
+
+## 👥 Project Team
+
+| Member Name | GitHub Profile | Role / Contribution |
+| :--- | :--- | :--- |
+| **Mahbod BemaniCham** | [@Mahbodbe](https://github.com/Mahbodbe) | Hardware Architecture, DAQ & Project Lead |
+| **Erfan Ashkesh** | [@THEEA8](https://github.com/THEEA8) | Embedded Systems & Proteus Simulation |
+| **Mani Mohammadi** | [@loManiol](https://github.com/loManiol) | Backend Systems & Control Analysis |
 
 ---
 
@@ -84,7 +95,9 @@ smart-parking/
     ├── dashboard-live-access-logs.jpg
     ├── instr-parking-final-report.pdf    # Full Comprehensive Technical Report (Persian)
     └── instr-parking-final-report-en.pdf # Full Comprehensive Technical Report (English)
----
-📖 Engineering Documentation
-For detailed mathematical modeling, PID loop transfer functions, signal conditioning circuit schematics (including 10kΩ pull-up calculations), and system security topologies, please consult the complete PDF reports located inside the report/ directory.
+```
 
+---
+
+### 📖 Engineering Documentation
+For detailed mathematical modeling, PID loop transfer functions, signal conditioning circuit schematics (including 10kΩ pull-up calculations), and system security topologies, please consult the complete PDF reports located inside the `report/` directory.
