@@ -18,7 +18,7 @@
   <a href="#-english-version">
     <img src="https://img.shields.io/badge/Language-English-blue.svg?style=flat-square" alt="English">
   </a>
-  <a href="#-نسخه-فارسی">
+  <a href="README_FA.md">
     <img src="https://img.shields.io/badge/Language-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C-green.svg?style=flat-square" alt="فارسی">
   </a>
 </p>
