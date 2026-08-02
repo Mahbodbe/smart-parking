@@ -27,11 +27,11 @@
 
 ## 👥 Project Team
 
-| Member Name | GitHub Profile | Role / Contribution |
-| :--- | :--- | :--- |
-| **Mahbod BemaniCham** | [@Mahbodbe](https://github.com/Mahbodbe) | Hardware Architecture, DAQ & Project Lead |
-| **Erfan Ashkesh** | [@THEEA8](https://github.com/THEEA8) | Embedded Systems & Proteus Simulation |
-| **Mani Mohammadi** | [@loManiol](https://github.com/loManiol) | Backend Systems & Control Analysis |
+| Member Name | GitHub Profile |
+| :--- | :--- |
+| **Mahbod BemaniCham** | [@Mahbodbe](https://github.com/Mahbodbe) |
+| **Erfan Ashkesh** | [@THEEA8](https://github.com/THEEA8) |
+| **Mani Mohammadi** | [@loManiol](https://github.com/loManiol) |
 
 ---
 
